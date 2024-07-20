@@ -1,0 +1,50 @@
+    .distance{
+    margin-left:10px;
+    }
+.title{
+display:flex;
+background-color:#800000
+}
+    .ref{
+margin-left: 970px;
+ display:flex;
+ align-items:center;
+ }
+ .news{
+background-color:#7F3727;
+border: 1px solid black;
+height:300px;
+display: flex;
+width:100%;
+margin-top:20px;
+}
+    .newsreplace{
+    width:30%;
+    height:95%;
+    margin-top:10px
+    }
+    .newsimg{
+    width:100%;
+    height:100%;
+    margin-left:5px
+    }
+    .texttitle{
+    margin-left:20px,font-size: 120%;
+                        font-family: Verdana, Arial, Helvetica, sans-serif;
+    }
+    .latestnews{
+    text-align:center;font-style:italic}
+    .card{
+    width:25%;height:25%;text-align:center;
+    }
+    .photosize{
+    width:90%;height:90%}
+    .italic{
+    font-style:italic}
+    .button{
+    background-color:#CD5C5C
+    }
+    .none{
+    text-decoration: none}
+
+
